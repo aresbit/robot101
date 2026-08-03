@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: 机器人学导论：从刚性运动到控制
 ---
 
