@@ -1,0 +1,21 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: [2, 3, 4]
+permalink: pretty
+title: 机器人学导论：从刚性运动到控制
+description: 基于 UC Berkeley EECS C106A (Introduction to Robotics, Fall 2023) 编译的中文教材
+author: 编译：基于 Koushil Sreenath 与 Shankar Sastry 教授课程资料
+theme: jekyll-theme-cayman
+exclude:
+  - "*.sh"
+  - "scripts/"
+  - "sources/"
+  - "pdfs/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules/"
