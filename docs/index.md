@@ -1,3 +1,8 @@
+---
+layout: home
+title: 机器人学导论：从刚性运动到控制
+---
+
 # 机器人学导论：从刚性运动到控制
 
 > 本书编译自 **UC Berkeley EECS C106A/206A: Introduction to Robotics** (Fall 2023, Prof. Koushil Sreenath & Prof. Shankar Sastry)
